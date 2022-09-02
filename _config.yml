@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-# remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 theme: "just-the-docs"
 
 # Build settings
@@ -44,9 +44,6 @@ nav_external_links:
     hide_icon: false
 
 color_scheme: dark
-
-back_to_top: true
-back_to_top_text: "Back to top"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
