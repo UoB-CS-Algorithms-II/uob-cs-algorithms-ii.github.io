@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Main hub
+nav_order: 1
 permalink: /
 ---
 
@@ -15,18 +16,17 @@ Table of contents
 
 ## Welcome
 
-Welcome to Algorithms II! This unit is a direct continuation of the algorithms part of Object-Oriented Programming and Algorithms from last year. The focus will be on four key algorithm design skills, which will be useful to you no matter which language or programming paradigm you end up working with:
+Welcome to Algorithms II! This unit is a direct continuation of the algorithms part of Object-Oriented Programming and Algorithms from last year. The focus will be on three key algorithm design skills, which will be useful to you no matter which language or programming paradigm you end up working with:
 
 * **Greedy algorithms.** In other words, when can you replace a complicated algorithm that carefully considers the whole situation with a simple algorithm that just repeatedly does whatever seems like a good idea at the time?
 * **Graphs and networks.** You were briefly introduced to these in Imperative Programming last year, and perhaps in school before that, but in this unit you will learn to use them effectively to model and solve unfamiliar problems.
-* **Dynamic programming.** You were introduced to dynamic programming in Algorithms last year, and it's still a vital concept. This year we'll be covering more advanced material.
-* **Reductions.** In other words, rather than writing your own algorithm to solve a problem, either making clever use of a library function or proving that no fast algorithm exists.
+* **Reductions.** In other words, rather than writing your own algorithm to solve a problem, either making clever use of a library function or proving that no fast algorithm exists. This will include learning how to apply dynamic programming techniques, which you were introduced to in Algorithms last year, to unfamiliar problems.
 
 ## Schedule and links to materials
 
-| Week 1 | **Monday 2021/09/28**<br>Videos released | _1-1: Unit introduction_<br> (Video, slides, handout) | _1-2: Induction_<br>(Video, slides, handout) |
-| | | _1-3: Defining O-notation_<br> (Video, slides, handout) | _1-4: Using O-notation_<br> (Video, slides, handout) |
-| | **Tuesday 2021/10/05**<br>Quiz 1 due | **Monday 2021/10/04**<br>Q&A 1<br> (Padlet, recording) | **Thursday 2021/10/07**<br> Problem class 1<br> (Sheet, solutions) |
+| Week 1 | **Monday 2022/09/26**<br>Videos released | _1-1: Unit introduction_<br> (Video, slides, handout) | _1-2: Induction_<br>([Video](https://web.microsoftstream.com/video/f9b002c0-ee53-439e-9d2b-93b146378cf3), [slides](slides/video-1-2-verbose.pdf), [handout](slides/video-1-2-handout.pdf)) |
+| | [Optional resources](../readings/#week-1) | _1-3: Defining O-notation_<br> ([Video](https://web.microsoftstream.com/video/f7a2f3f6-b468-4ca6-b802-55cdd0a93f67), [slides](slides/video-1-3-verbose.pdf), [handout](slides/video-1-3-handout.pdf)) | _1-4: Using O-notation_<br> ([Video](https://web.microsoftstream.com/video/71184484-ac02-47be-8725-18c7d99aaf8c), [slides](slides/video-1-4-verbose.pdf), [handout](slides/video-1-4-handout.pdf)) |
+| | **Monday 2022/10/03**<br>[Quiz 1](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7306183_1&mode=cpview) due | **Thursday 2022/09/29**<br>Q&A 1 ([Padlet](https://uob.padlet.org/johnlapinskas1/dxcagumjlt89qhrm), recording) | **Friday 2022/10/05**<br> Problem class 1<br> Sheet coming week 2 |
 
 ## What's in the unit
 
@@ -40,6 +40,8 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Q&A sessions** are weekly hour-long sessions in which I answer any questions about the unit you might have - for example, questions about the video lectures, the problem classes, the Blackboard quizzes or the exam. These will be run online with Padlet and Teams, allowing you to ask questions anonymously or in advance (with TA moderation). I'm running them online not because of covid, but because I've tried running them both online and in-person and I sincerely think they work better online. Attendance is optional, but encouraged if you're having difficulty with any part of the week's material.
 
+**Drop-in sessions** with TAs will run several times per week, starting in Week 2. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. The exact times and locations are TBD (some will be online), and more information will follow as a general announcement.
+
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~50-person classes led by either John or Adi, and they won't follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures and group work, focusing mostly not on the material itself but on how to apply it to solve problems. 
 
 It's also worth noting that you should **not** try to finish the problem sheets! They contain far too much work to finish them in a week without neglecting your other units, and normally we'll only pick out a few questions to discuss during problem classes. The reason there are so many questions is that they'll also be good preparation for the long-answer portion of the exam, so you can double back later on and use them for practice while you're revising.
@@ -47,10 +49,6 @@ It's also worth noting that you should **not** try to finish the problem sheets!
 While I can't require that you wear a mask, I would still ask you to do so. As of July 31st, 3% of the UK population are experiencing long COVID symptoms according to [the official data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/infections), and about 1.5% of the population have been experiencing them for a year or more. It is true that being vaccinated reduces the risk of long COVID, but "only" by about half. My own anecdotal experience agrees with this - most people I know have had COVID, and a few of them do indeed still have long-lasting symptoms despite having contracted omicron rather than delta and despite being fully vaccinated and boosted. It's just not a smart risk to take when you can avoid it by wearing a good mask. Unfiltered or poorly-fitting cloth masks and surgical masks are a nice gesture to protect others, but will do very little to protect you. I'll be wearing one of [these](https://www.airinum.com/products/lite-air-mask) - a decently-fitting cloth mask with insertable KN95 filters. It's not perfect protection, but it's good enough to massively cut your risk without being overly bulky, expensive or muffling. If you are very worried about COVID and would otherwise not come to the problem classes, I would recommend one of [these](https://www.3m.co.uk/3M/en_GB/worker-health-safety-uk/safety-solutions/respiratory-protection-centre/secure-click-respirators/) masks with [these](https://www.3m.co.uk/3M/en_GB/p/d/v100801892/) FFP3 filters - they have a perfect seal and will give you absolutely perfect protection, at the cost of making you look and sound ridiculous.
 
 I don't take attendance at problem classes, and I'd encourage anyone who is feeling ill or who has tested positive not to attend - recordings will be made available on the unit page after the fact, so you can catch up easily.
-
-## Problem class groups
-
-These are available at (TBD) (requires UoB authentication). 
 
 ## Planning your time
 

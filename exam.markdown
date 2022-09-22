@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exam and unit mark info
+title: Exam and quiz info
 permalink: /exam/
 ---
 <details open markdown="block">
@@ -22,6 +22,7 @@ Your unit mark will be split into two parts. 10% will come from Blackboard quizz
 * If your raw mark on a quiz is greater than 50%, then it will be set to 100% in the final grade calculation. Otherwise, it will remain unchanged. For example, a student who gets 55% in nine quizzes and 45% in one quiz will get a total mark of 94.5%.
 * The intention is that thanks to the "rounding" above, almost everyone will get full marks on almost every quiz. They are explicitly intended not to gauge your ability, but to nudge you into keeping up with the unit.
 * Immediately after you've submitted your quiz, you can (and should!) check to see exactly what you got wrong and why.
+* The quizzes are hosted on Blackboard. They are linked from the table in the [main hub](../), or you can see them all [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7088346_1&course_id=_252983_1&mode=reset).
 
 ## Exam
 
@@ -33,7 +34,7 @@ Your unit mark will be split into two parts. 10% will come from Blackboard quizz
 
 * The exam will be two hours long.
 
-* The exam will be open-note. This means you will be allowed to bring some number (TBD) of pages of handwritten or printed A4 notes with you to the exam room. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
+* The exam will be open-note. This means you will be allowed to bring four pages of handwritten or printed A4 notes with you to the exam room. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
 
 * Calculators are allowed, although you probably won't need one.
 
@@ -43,7 +44,7 @@ Your unit mark will be split into two parts. 10% will come from Blackboard quizz
    * The first section will contain short-answer questions worth a total of 75 marks, in a similar format to the Blackboard quizzes. For these questions, you won't need to show any working, and any working you do show won't be taken into account --- you'll just need to choose an option, fill in blanks, write down a number, or give some similarly short answer. If you do show working, it's important that you circle your final answer or otherwise make it very clear what it is.
    * The second section will contain long-answer questions worth a total of 75 marks, in a similar format to the problem sheets. For these questions, you should show your working as you will be able to get partial credit even for an incorrect answer.
 
-* Not all the questions will be of equal difficulty. I subscribe to the idea that a unit mark of 40 should be attainable by everyone in the class who's willing to put effort in, a mark of 70 should show genuinely impressive understanding of the material, and a mark of 90 or more should be a huge achievement that comes round once per year or less. This means the questions will start out relatively easy, to make sure it's not too hard to pass, and then get progressively harder, to make sure it's not too easy to get a high mark. To help you plan your time, each question (and each part of multi-part questions) will be tagged "short", "medium" or "long". In total, 80 marks will be available from short questions, 50 marks will be available from medium questions, and 20 marks will be available from long questions, for a total of 150. 
+* Not all the questions will be of equal difficulty. I subscribe to the idea that a unit mark of 40 should be attainable by everyone in the class who's willing to put effort in, a mark of 70 should show genuinely impressive understanding of the material, and a mark of 90 or more should be a huge achievement that comes round once per year or less. This means the questions will start out relatively easy, to make sure it's not too hard to pass, and then get progressively harder, to make sure it's not too easy to get a high mark. In particular, **you are not expected to finish the exam**. To help you plan your time, each question (and each part of multi-part questions) will be tagged "short", "medium" or "long". In total, 80 marks will be available from short questions, 50 marks will be available from medium questions, and 20 marks will be available from long questions, for a total of 150. 
    * Short questions will correspond to questions rated [\*] or to the easier questions rated [\*\*] on the quizzes and example sheets.
    * Medium questions will correspond to the harder questions rated [\*\*] on the quizzes and example sheets, or to the easier [\*\*\*] questions. Some of them will require you to prove results or come up with new algorithms, and some of them will be similar to "short" questions but be more involved and require more time and effort for the same amount of marks.
    * Long questions will correspond to questions rated [\*\*\*] and [\*\*\*\*] on the quizzes and example sheets. They are intended to push the very best students, and you should not attempt them unless you have already tried all the short and medium questions.

@@ -24,6 +24,7 @@ You have several good options:
 1. Ask me or a TA during the weekly problem class.
 1. Take a look at the recommended readings for the week [here](../readings) to get a different view on the topic from the lecture notes.
 1. If all else fails, try Google! Nothing in this unit is so obscure you can't find good sources online.
+
 The one thing I'd ask you not to do is email me directly. This is a hard unit, and it's very unlikely you're the only one who's having trouble with the concept, so it's much better to ask in the unit team - that way, everyone gets to benefit from the answer. Even from a selfish point of view, if you ask in the unit team, there's a good chance you'll get a faster response, since TAs and other students can answer as well. 
 
 ### I think I've found an error in the notes or a Blackboard quiz. What should I do?
@@ -49,6 +50,14 @@ This actually isn't my decision - you'll need to get in contact with the [school
 
 This is an artifact of the way Blackboard works - if you're past the deadline, you're flagged as late until your mark is manually reviewed, and until that happens it will show up as zero. I apply all the late penalties at once at the end of term, once all the dust has settled with extension requests, so your mark will show as zero until then.
 
+### Which problem class group am I in?
+
+This should appear in your Outlook calendar. If it doesn't, a spreadsheet of all groups is available [here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/Efamu1tlvqdCmVcozY0HNNgBAfbD6YM4KNuQ6oToDFGMEQ?e=NDyJwQ) with one sheet per group (requires UoB login).
+
+### Can I change my problem class group?
+
+Yes, if you have a good reason - just email me. (Not wanting a 9:00 problem class, while totally understandable, is not a good enough reason - I don't want to overfill the 10:30 class.)
+
 ### Wait, the Q&A is completely anonymous? And I can submit images via Padlet? \*Grins malevolently\*
 
 It's still moderated - all Padlet posts need to be approved before they'll show up. ;-)
@@ -61,8 +70,8 @@ Honestly, I started with them during 2020-21 when everything was on fire with CO
 
 The unit director is John Lapinskas, email address [john.lapinskas@bristol.ac.uk](mailto:john.lapinskas@bristol.ac.uk).
 
-The TAs for the unit are TBD.
+The lead TA for the unit is Adithya Diddapur, email address [adi.diddapur@bristol.ac.uk](mailto:adi.diddapur@bristol.ac.uk). 
 
 ## The unit team
 
-Everyone taking this unit should have been added to a Microsoft Team called "COMS20010: Algorithms II 2021/22 (TB-1, A)". The Q&A sessions will be run as meetings in this team, and access to recordings of Q&A sessions and problem classes will be restricted to members of this team. If you've joined the unit late, you might not have been added to this team - in that case, please email me and I'll add you myself.
+Everyone taking this unit should have been added to a Microsoft Team called "COMS20010: Algorithms II 2021/22 (TB-1, A)". The Q&A sessions will be run as meetings in this team, and access to recordings of Q&A sessions and problem classes will be restricted to members of this team. If you've joined the unit late, you might not have been added - in that case, please email me and I'll add you myself.
