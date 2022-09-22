@@ -23,6 +23,7 @@ Your unit mark will be split into two parts. 10% will come from Blackboard quizz
 * The intention is that thanks to the "rounding" above, almost everyone will get full marks on almost every quiz. They are explicitly intended not to gauge your ability, but to nudge you into keeping up with the unit.
 * Immediately after you've submitted your quiz, you can (and should!) check to see exactly what you got wrong and why.
 * The quizzes are hosted on Blackboard. They are linked from the table in the [main hub](../), or you can see them all [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7088346_1&course_id=_252983_1&mode=reset).
+* There is a dummy quiz available [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7352533_1&mode=cpview) which is worth no credit, is completely optional, and has no educational value. Take it if you want to make sure that Blackboard quizzes work well on your browser. 
 
 ## Exam
 
