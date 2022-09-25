@@ -24,10 +24,10 @@ Welcome to Algorithms II! This unit is a direct continuation of the algorithms p
 
 ## Schedule and links to materials
 
-| Week 1 | **Monday 2022/09/26**<br>Videos released | _1-1: Unit introduction_<br> (Video, slides, handout) | _1-2: Induction_<br>([Video](https://web.microsoftstream.com/video/f9b002c0-ee53-439e-9d2b-93b146378cf3), [slides](slides/video-1-2-verbose.pdf), [handout](slides/video-1-2-handout.pdf)) |
+| Week 1 | **Monday 2022/09/26**<br>Videos released | _1-1: Unit introduction_<br> ([Video](https://web.microsoftstream.com/video/70f4313b-bde0-44a0-9eb5-2e0f1190d944), [slides](slides/video-1-1-verbose.pdf), [handout](slides/video-1-1-handout.pdf)) | _1-2: Induction_<br>([Video](https://web.microsoftstream.com/video/f9b002c0-ee53-439e-9d2b-93b146378cf3), [slides](slides/video-1-2-verbose.pdf), [handout](slides/video-1-2-handout.pdf)) |
 | | [Optional resources](../readings/#week-1) | _1-3: Defining O-notation_<br> ([Video](https://web.microsoftstream.com/video/f7a2f3f6-b468-4ca6-b802-55cdd0a93f67), [slides](slides/video-1-3-verbose.pdf), [handout](slides/video-1-3-handout.pdf)) | _1-4: Using O-notation_<br> ([Video](https://web.microsoftstream.com/video/71184484-ac02-47be-8725-18c7d99aaf8c), [slides](slides/video-1-4-verbose.pdf), [handout](slides/video-1-4-handout.pdf)) |
 | | **Monday 2022/10/03**<br>[Quiz 1](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7306183_1&mode=cpview) due | **Thursday 2022/09/29**<br>Q&A 1 ([Padlet](https://uob.padlet.org/johnlapinskas1/dxcagumjlt89qhrm), recording) | **Friday 2022/10/05**<br> Problem class 1<br> Sheet coming week 2 |
-| | (**Optional:** [Dummy quiz](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7352533_1&mode=cpview) to<br> test your browser works.) | |
+| | (**Optional:** [Dummy quiz](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7352533_1&mode=cpview)<br> to test your browser works.) | |
 
 ## What's in the unit
 
