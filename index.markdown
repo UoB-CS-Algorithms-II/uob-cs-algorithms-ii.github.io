@@ -41,7 +41,13 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Q&A sessions** are weekly hour-long sessions in which I answer any questions about the unit you might have - for example, questions about the video lectures, the problem classes, the Blackboard quizzes or the exam. These will be run online with Padlet and Teams, allowing you to ask questions anonymously or in advance (with TA moderation). I'm running them online not because of covid, but because I've tried running them both online and in-person and I sincerely think they work better online. Attendance is optional, but encouraged if you're having difficulty with any part of the week's material.
 
-**Drop-in sessions** with TAs will run several times per week, starting in Week 2. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. The exact times and locations are TBD (some will be online), and more information will follow as a general announcement.
+**Drop-in sessions** with TAs will run several times per week. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. These will take place at the following times and locations:
+
+* **Mondays 11:45-12:45**:  In-person, room TBD. Week 2 onwards.
+* **Tuesdays 10:00-11:00**: In-person, room TBD. Week 2 onwards.
+* **Wednesdays 15:00-16:00**: Online on the unit team. Week 2 onwards.
+* **Thursdays 14:00-15:00**: In-person, room TBD. Week 2 onwards.
+* **Fridays 13:00-14:00**: Online on the unit team. Week **\*1\*** onwards.
 
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~50-person classes led by either John or Adi, and they won't follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures and group work, focusing mostly not on the material itself but on how to apply it to solve problems. 
 
