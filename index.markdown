@@ -49,7 +49,7 @@ For more details on any of this, take a look at the first lecture video above.
 * **Tuesdays 10:00-11:00**: In-person, Merchant Venturers Building 1.15. Week 2 onwards.
 * **Wednesdays 15:00-16:00**: Online on the unit team. Week 2 onwards.
 * **Thursdays 14:00-15:00**: In-person, Queens Building 1.59. Week 2 onwards.
-* **Fridays 13:00-14:00**: Online on the unit team. Week **\*1\*** onwards.
+* **Fridays 13:00-14:00**: Online on the unit team. Week 2 onwards.
 
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~50-person classes led by either John or Adi, and they won't follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures and group work, focusing mostly not on the material itself but on how to apply it to solve problems. 
 
