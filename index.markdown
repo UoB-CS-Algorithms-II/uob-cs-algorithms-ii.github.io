@@ -24,9 +24,11 @@ Welcome to Algorithms II! This unit is a direct continuation of the algorithms p
 
 ## Schedule and links to materials
 
+Most of the material below (especially recordings of Q&As and problem classes) will require you to log in to University of Bristol systems.
+
 | Week 1 | **Monday 2022/09/26**<br>Videos released | _1-1: Unit introduction_<br> ([Video](https://web.microsoftstream.com/video/70f4313b-bde0-44a0-9eb5-2e0f1190d944), [slides](slides/video-1-1-verbose.pdf), [handout](slides/video-1-1-handout.pdf)) | _1-2: Induction_<br>([Video](https://web.microsoftstream.com/video/f9b002c0-ee53-439e-9d2b-93b146378cf3), [slides](slides/video-1-2-verbose.pdf), [handout](slides/video-1-2-handout.pdf)) |
 | | [Optional resources](../readings/#week-1) | _1-3: Defining O-notation_<br> ([Video](https://web.microsoftstream.com/video/f7a2f3f6-b468-4ca6-b802-55cdd0a93f67), [slides](slides/video-1-3-verbose.pdf), [handout](slides/video-1-3-handout.pdf)) | _1-4: Using O-notation_<br> ([Video](https://web.microsoftstream.com/video/71184484-ac02-47be-8725-18c7d99aaf8c), [slides](slides/video-1-4-verbose.pdf), [handout](slides/video-1-4-handout.pdf)) |
-| | **Monday 2022/10/03**<br>[Quiz 1](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7306183_1&mode=cpview) due | **Thursday 2022/09/29**<br>Q&A 1 ([Padlet](https://uob.padlet.org/johnlapinskas1/dxcagumjlt89qhrm), recording) | **Friday 2022/10/05**<br> Problem class 1<br> Sheet coming week 2 |
+| | **Monday 2022/10/03**<br>[Quiz 1](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7306183_1&mode=cpview) due | **Thursday 2022/09/29**<br>Q&A 1 ([Padlet](https://uob.padlet.org/johnlapinskas1/dxcagumjlt89qhrm), [recording](https://uob.sharepoint.com/:v:/t/UnitTeams-COMS20010-2022-23-TB-1-A/EeJJLggvt7NLgDWqdr1VHSQBDO8_VGnHLnykU3EosfHUrA?e=Y1W9ev), [board](https://jamboard.google.com/d/1La-Qw-KXAJEhEfQJrG3INcHEIE_d9fzm5xTncF2A8rY/edit?usp=sharing)) | **Friday 2022/10/05**<br> Problem class 1<br> Sheet coming week 2 |
 | | (**Optional:** [Dummy quiz](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252983_1&content_id=_7352533_1&mode=cpview)<br> to test your browser works.) | |
 
 ## What's in the unit
@@ -43,10 +45,10 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Drop-in sessions** with TAs will run several times per week. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. These will take place at the following times and locations:
 
-* **Mondays 11:45-12:45**:  In-person, room TBD. Week 2 onwards.
-* **Tuesdays 10:00-11:00**: In-person, room TBD. Week 2 onwards.
+* **Mondays 12:00-13:00**:  In-person, Ada Lovelace SM2. Week 2 onwards.
+* **Tuesdays 10:00-11:00**: In-person, Merchant Venturers Building 1.15. Week 2 onwards.
 * **Wednesdays 15:00-16:00**: Online on the unit team. Week 2 onwards.
-* **Thursdays 14:00-15:00**: In-person, room TBD. Week 2 onwards.
+* **Thursdays 14:00-15:00**: In-person, Queens Building 1.59. Week 2 onwards.
 * **Fridays 13:00-14:00**: Online on the unit team. Week **\*1\*** onwards.
 
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~50-person classes led by either John or Adi, and they won't follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures and group work, focusing mostly not on the material itself but on how to apply it to solve problems. 
