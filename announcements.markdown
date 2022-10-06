@@ -14,6 +14,20 @@ Table of contents
 
 # Announcements Page
 
+## COVID cases rising, policy reminder
+
+Hi all,
+
+Unfortunately, fresher's flu season has become more sinister in recent years, and like this time last year, we've started to get reports of students in this unit testing positive for COVID... I'm not planning to move problem classes online - when it comes to small-group teaching, in-person is drastically better, and a good mask cuts out almost all the risk the risk to you (see the first video for an overview). But I wanted to flag that there are active cases for the benefit of people who might otherwise choose not to wear a mask - while the COVID-positive students I know about are doing the right thing and staying home, normally for every two people who know they have COVID there's one person spreading it asymptomatically.
+
+Speaking of which, if you have COVID yourself, please don't come to problem classes! While the classes are very useful, they're also optional. We don't take attendance, and they're going to be recorded and made available on Re/Play, so you can catch back up afterwards. You're also much more likely to get a worse case of COVID if you push yourself while you've got it - so not only is it better to keep other people safe, it’s also in your own best interest to stay home and recover quickly rather than try to come in and end up recovering slowly.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://img.freepik.com/premium-photo/cat-protective-medical-mask-protective-face-mask-animals-covid-19-coronovirus_36325-3303.jpg?w=2000)!
+
 ## Welcome and drop-in sessions
 
 Hi all,
