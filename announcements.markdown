@@ -14,6 +14,22 @@ Table of contents
 
 # Announcements Page
 
+## Error in notes (weak connectedness)
+
+Hi all,
+
+I've realised there's a minor but important error in the notes and video for lecture 3-1: the definition of weak connectedness should say that G is weakly connected if for all vertices u and v, there's a path from u to v **ignoring edge directions**. (It previously required either a path from u to v or a path from v to u.) I've fixed this in the lecture notes now, and will upload a fixed version of the video later this week. There are no implications for Blackboard quiz marks, since the two definitions are equivalent for all the graphs in the quiz questions. 
+
+To see the difference between these two definitions, think of the graph with V = {a,b,c} and E = {(a,b), (c,b)} - in other words, two edges, both pointing towards b. Under the old, incorrect definition of weak connectedness, this graph is not weakly connected, since there's no directed path from a to c and no directed path from c to a. But under the new, correct definition, this graph is weakly connected, since abc is a path from a to c ignoring edge directions. Conceptually, weak connectedness is exactly like connectedness in an undirected graph - it is saying that the graph is "all one lump" if you draw it out. 
+
+I'd also like to shamelessly plug the new problem class format again. Right now we have very low numbers attending the foundational classes with Adi - which is absolutely great for everyone attending, since they're getting quality teaching in an incredibly small group size! But it's less great for all the people who would benefit from coming, but who are staying home. I can't stress this enough - no prep is required, Adi is a great teacher, and you will learn a hell of a lot. Barring illness, absolutely everyone taking the unit should be coming to either Adi's classes or mine.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://imgur.com/dgTmhaI)!
+
 ## New problem class format from tomorrow!
 
 Hi all,
