@@ -14,6 +14,34 @@ Table of contents
 
 # Announcements Page
 
+## Foundational Stream and New Office Hour Format
+
+Hi Guys,
+
+I hope year 2 is going well!
+
+Last week was the first week of the new foundational stream in the problem classes, and we think they went really well, so we’re going to continue them for the rest of term.
+
+If you were already coming along, then that’s great!
+However, attendance last week wasn’t as high as we’d hoped, so I’m gonna shamelessly advertise these some more :)
+
+The foundational stream is intended to help students grasp the basics.
+If you’ve been **challenged or confused by any of the \* or \*\* questions in the problem sheets**, then these are the sessions for you.
+
+No prep is required, just show up, and we’ll walk you through everything you need to know.
+Friday morning as usual in MVB 1.11.
+
+Additionally, from tomorrow Charlotte will start running a ‘focussed office hour’.
+This will be like a normal office hour, except now we will also encourage you to show up without questions, and each week there will be a different topic which Charlotte will go through.
+These topics will be related to the material covered in that week.
+These will continue to be on Thursdays at 2pm in Queens 1.59.
+
+Historically, students who engage with the contact hours usually pass.
+We **strongly** encourage you to come along to sessions - we want to help you understand this material as well :)
+
+Thanks,
+Adi
+
 ## Error in notes (weak connectedness)
 
 Hi all,
