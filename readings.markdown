@@ -59,3 +59,11 @@ Back to CS books next week, honest!
 * **Skiena:** 5.2 covers graph representations, 5.6 covers breadth-first search, 5.8 covers depth-first search, and 6.3.1 covers Dijkstra's algorithm.
 * **Erickson:** 5.3 and 5.4 cover graph representations, and 5.5, 5.6 and 8.6 cover breadth-first search, depth-first search, and Dijkstra's algorithm.
 
+### Week 5
+
+
+* **Cormen et al.:** 23.1 and 23.2 cover Prim's algorithm and Kruskal's algorithm, although the section on Kruskal's algorithm won't make much sense until next week.
+* **Kleinberg and Tardos:** 4.5 covers Prim's algorithm and Kruskal's algorithm.
+* **Skiena:** 6.1.1 covers Prim's algorithm, and 6.1.2 covers Kruskal's algorithm.
+* **Erickson:** 7.1, 7.2, 7.4 and 7.5 cover Prim's algorithm and Kruskal's algorithm.
+* **Bondy and Murty, Graph Theory with Applications:** 5.1 covers matchings and augmenting paths. (Matchings are covered in all four other books as well, but from a different perspective that we will come to later in the course.)
