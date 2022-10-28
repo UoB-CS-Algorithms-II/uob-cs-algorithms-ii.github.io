@@ -14,6 +14,25 @@ Table of contents
 
 # Announcements Page
 
+## Reading week arrangements
+
+Hi all,
+
+Congratulations on making it to reading week! As with most units, there won't be any dedicated teaching so you all have time to catch back up (and so that I can sprint for a conference deadline on my next paper!), but the normal support will still be running. This means:
+
+* We'll still be answering questions on the Teams channel.
+* Drop-ins will still be running (**except** the drop-in on Friday November 4th). Charlotte's focused office hour next week will focus on matchings.
+* There won't be any Q&A or problem class.
+* The week 5 quiz will be due on Monday of **week 7**, so you have all of reading week to do it.
+
+Have fun, have a good rest, and see you all in week 7!
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://preview.redd.it/xuc50kxm7m581.jpg?width=640&crop=smart&auto=webp&s=5e9fea4afe5b55b7d89519fff8ec5efdc18192dc)!
+
 ## Foundational Stream and New Office Hour Format
 
 Hi Guys,
