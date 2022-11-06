@@ -14,6 +14,18 @@ Table of contents
 
 # Announcements Page
 
+## Minor error in video 6-4
+
+Hi all,
+
+Just a quick heads-up that there's a minor error in the definition of a red-black tree in video 6-4, right at the end - a node can have a single child (rather than two or zero) if the node is black and its child is a red leaf. The slides are fixed, and I was planning to fix the video before it went up, but the last week has been a mad 80-hour sprint to get a 90-page paper finished and submitted to a conference before both the deadline hits and my co-authors go on parental leave...! The deadline is Monday evening, so hopefully it will be up on arXiv on Tuesday in all its terrible glory and you can see exactly why it took so long.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](i.redd.it/4oglyc9t72q81.png)!
+
 ## Reading week arrangements
 
 Hi all,
