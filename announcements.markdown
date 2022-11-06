@@ -24,7 +24,7 @@ Best wishes,
 
 John
 
-Cat of the day: [Here](i.redd.it/4oglyc9t72q81.png)!
+Cat of the day: [Here](http://i.redd.it/4oglyc9t72q81.png)!
 
 ## Reading week arrangements
 
