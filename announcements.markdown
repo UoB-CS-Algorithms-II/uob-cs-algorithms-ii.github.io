@@ -14,6 +14,42 @@ Table of contents
 
 # Announcements Page
 
+## Quiz deadline change and response to mid-term feedback
+
+Hi all,
+
+The mid-term feedback is in! Thanks to everyone who responded, 60 people is a really good rate and it helps us make things better for future years. I'd rather not stick the feedback and my responses on the open Internet, and it's pretty long, so I've linked it on OneDrive [here](https://uob-my.sharepoint.com/:b:/g/personal/fz19826_bristol_ac_uk/Efg8TrhxpZBEqSo5iEjhv-kBqol4ebW0_5SWIF7bNJV-mw?e=bGtRU0). That said, there are a couple of things that I think are major enough to mention in this email.
+
+**Quiz deadlines:**
+
+Some people made the very reasonable point that having the quiz deadline on a Monday means people are pushed into working on it over the weekend, which besides being generally antisocial is also the time when there's least TA support available. As such, **quiz deadlines will be on Tuesdays from now on**. The quiz 6 deadline has been moved back a day accordingly.
+
+**More examples:**
+
+A lot of people have asked for more examples to be available. There's one really good and under-utilised source of this - the foundational problem classes! Adi is an excellent teacher and class sizes are currently very small (ten people or less). I've heard some concern via the Staff-Student Liaison Committee that going to them will leave you unprepared for the exam, or leave you needing to do perfectly to secure a pass, and this couldn't be further from the truth. If you've kept up with the quizzes (which are worth 10% of the overall mark), then you need a mark of 50/150 to pass the exam. I've written the exam now, and roughly speaking the mark breakdown is:
+
+80 marks: A mix of pure bookwork questions ("Which of these five options is the definition of O-notation?"), questions that ask about a definition ("Is this graph bipartite?"), and questions that ask you to apply a given algorithm to a given input. 
+
+55 marks: Questions asking you to do things like finding counterexamples for greedy algorithms, finding reductions, prove things by induction or come up with dynamic programming algorithms. About 20 marks of these are pitched at a level where you should be able to do them just from understanding the underlying concepts, without spending any time practising them in problem-based problem classes. Think of the past paper question that asks for a graph with a Hamilton cycle but no Euler walk as an example. The remaining 35 marks get steadily harder, and you'll probably want to have spent some time practising problem-solving to do well at them. 
+
+15 marks: OK, these ones are hard, and are intended to distinguish between the very best candidates.
+
+So if you've never been to the problem-based problem classes, and you don't try the harder quiz questions, and you don't try either problem sheet questions or practice exam questions when you're revising... you've still got a solid 100 marks available to you, and you need 50 of those to pass. Meanwhile, if you try to go into the exam without understanding the fundamentals, it's not going to be pretty even if your problem-solving skills are good. 
+
+So... I would really strongly recommend you give the foundational problem classes a try! They're not a dastardly trap, they're the single best thing you can do to prepare for the exam if you're having trouble with the fundamentals. And you can always just go to one, and swap back to the problem-based stream next week - especially if there's something that week you're having trouble with.
+
+There are also five past exam papers available (with full solutions) on the unit page [here](https://uob-cs-algorithms-ii.github.io/exam/#practice-questions) - they're a little harder than the actual exam will be, since in past years the exam was open-Internet and not just open-note. And of course, you can always ask on the Teams channel or in the daily drop-ins.
+
+**Drop-in topic for week 8**
+
+Lastly, Charlotte's focused drop-in session next week will be based on 2-3-4 trees.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](http://i.redd.it/muxlsdbw3ux91.jpg)!
+
 ## Minor error in video 6-4
 
 Hi all,
