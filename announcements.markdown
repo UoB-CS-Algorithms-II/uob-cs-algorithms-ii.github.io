@@ -14,6 +14,24 @@ Table of contents
 
 # Announcements Page
 
+## Quiz deadline change
+
+Hi all,
+
+I hope the course is going well!
+We have a few updates about the course we wanted to share with you.
+
+Firstly, following student feedback, the quiz deadlines have been moved to Tuesdays.
+Hopefully this extra weekday is helpful.
+Related to this, Charlotte has now taken over running the Monday office hour.
+Otherwise we don’t expect any changes to the contact hours for this course.
+
+The focussed drop in sessions will still be on Thursdays (also run by Charlotte), and this week will be focussed on 2-3-4 trees.
+
+On another note, there is currently a strike planned by the UCU on Friday the 25th of November (next Friday).
+This means that both streams of the problem classes will not run on that date.
+For more information, please feel free to refer to the union website https://www.ucu.org.uk/article/12469/FAQs
+
 ## Quiz deadline change and response to mid-term feedback
 
 Hi all,
