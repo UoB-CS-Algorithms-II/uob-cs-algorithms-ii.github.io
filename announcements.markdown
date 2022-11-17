@@ -14,6 +14,25 @@ Table of contents
 
 # Announcements Page
 
+## Disruption to problem classes (including tomorrow)
+
+Hi all,
+
+Unfortunately we're going to be seeing some disruption to the normally-scheduled problem classes over the next few weeks. Adi is currently ill and his voice won't hold up to one 90-minute problem class this week, let alone two, and I'm going to be in Germany for a [research workshop](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22482) in week 10. (Dagstuhl workshops are built around bringing together the best people in a very specific field to spark ideas off each other - since approximate counting and sampling is half of my research, I can't really miss this!) We're going to resolve this by recombining the foundational and problem-based classes for these weeks. So combined with the strike action Adi mentioned last week, the new timetable will be:
+
+* **Week 8:** Adi is ill, I run a merged problem class at the normal times.
+* **Week 9:** Strike action. No problem class or Q&A session runs as both Thursday and Friday are strike days, but the sheet and solutions are released as normal and drop-ins run as normal.
+* **Week 10:** I'm out of the country, Adi runs a merged problem class at the normal times. Everything else will run as normal, including the Q&A; Adi might lead it instead of me if the venue has unreliable Internet access, but I'm not expecting that to be an issue. 
+* **Weeks 11-12:** Normal service resumes with both Adi and John running separate problem classes.
+
+Also, as a reminder, the focus for tomorrow's drop-in session will be 2-3-4 trees - these are probably the most complicated thing in the unit from the point of view of "what the algorithm does" (as opposed to "why the algorithm works"), so if you've been having trouble then do come along.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://v.redd.it/cynxafz3tuz91)!
+
 ## Quiz deadline change
 
 Hi all,
