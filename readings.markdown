@@ -61,7 +61,6 @@ Back to CS books next week, honest!
 
 ### Week 5
 
-
 * **Cormen et al.:** 23.1 and 23.2 cover Prim's algorithm and Kruskal's algorithm, although the section on Kruskal's algorithm won't make much sense until next week.
 * **Kleinberg and Tardos:** 4.5 covers Prim's algorithm and Kruskal's algorithm.
 * **Skiena:** 6.1.1 covers Prim's algorithm, and 6.1.2 covers Kruskal's algorithm.
@@ -83,3 +82,9 @@ Back to CS books next week, honest!
 * **Erickson:** Network flows and Ford-Fulkerson are covered in 10.1-10.4.
 * A pleasant song to listen to while you reflect on how the details of the simplex algorithm are non-examinable: [Here](https://www.youtube.com/watch?v=pg9l7Mx27t8).
 
+### Week 9
+
+* **Cormen et al.:** 26.3 covers maximum matchings in bipartite graphs from a flow perspective. 34-34.3 covers the definitions of NP-completeness, and 34.4 and 34.5 give examples of NP-completeness proofs.
+* **Kleinberg and Tardos:** 7.5 covers maximum matchings in bipartite graphs from a flow perspective, and 7.7 covers circulations. 8.1 and 8.3 cover the definition of NP-completeness, and 8.2 covers the proof that 3SAT is NP-complete.
+* **Skiena:** 9.1-9.3 cover the idea of a reduction, with several examples. 9.4 covers the proof that 3-SAT is NP-complete. 9.5 gives some more examples of reductions, 9.6 gives some general advice for coming up with reductions, and 9.9 discusses the philosophy of P versus NP.
+* **Erickson:** 11.2 covers vertex capacities and 11.3 covers maximum matchings in bipartite graphs from a flow perspective. 12.1-12.3 and 12.5 set out the key definitions for NP-completeness.
