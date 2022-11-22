@@ -14,6 +14,20 @@ Table of contents
 
 # Announcements Page
 
+## Quiz deadline glitch, focused drop-in topic
+
+Hi all,
+
+First off, it seems I failed to specify a time for this week's quiz deadline, and Blackboard defaulted to midnight rather than noon today - sorry about that! I've now fixed this, and everyone who submitted before noon should now have received full credit. I should also remind you that while if you ever _actually_ submit late you'll see a zero for the quiz, this zero is actually just Blackboard's way of saying "needs marking" - there's a standard late penalty required by the university that Blackboard can't handle automatically, so I apply them manually at the end of term. (See [here](https://uob-cs-algorithms-ii.github.io/help/#what-are-the-late-penalties-on-blackboard-quizzes) for more details - they are less severe than an instant zero!)
+
+I should also mention that Charlotte's focused drop-in session this Thursday will focus on the Ford-Fulkerson algorithm.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://v.redd.it/q9fye5e5fi0a1), don't forget to hit play!
+
 ## Disruption to problem classes (including tomorrow)
 
 Hi all,
