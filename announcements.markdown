@@ -14,6 +14,46 @@ Table of contents
 
 # Announcements Page
 
+## Various important updates
+
+Hi all,
+
+I know this is a wall of text, but it's all important, so please read it!
+
+### Good news (pre-exam support)
+
+I can now confirm we'll have support lined up in the run-up to the exam, despite how early it is in the assessment period!
+* We'll be monitoring the unit team for questions from **January 4th to January 8th**, so if any questions come up when you're revising, ask them then and we'll answer. 
+* Adi will be running an online drop-in session at **1pm on January 6th** (i.e. the Friday before the exam).
+* By the end of tomorrow, I'll put up new versions of all the Blackboard quizzes for revision purposes - these will be linked from the main unit page.
+* Also by the end of tomorrow, anyone who submitted a quiz late (and whose mark currently shows as zero for technical reasons) will have that mark updated to match the university regulation late penalties as set out [here](http://www.bristol.ac.uk/academic-quality/assessment/regulations-and-code-of-practice-for-taught-programmes/penalties/) and in the unit FAQ. If your mark isn't correct by Monday, let me know over email and we can sort it out. This is non-urgent - I likely won't reply until I return from leave on January 9th, but there's still several weeks to fix things after that.
+
+### Bad news (things cancelled tomorrow)
+
+Jonathan and Adi can't make it tomorrow, so no drop-in will be running and we'll be merging the problem classes again (with me running the merged class).
+
+### Ugly news (finalised exam info)
+
+The [exam information](../exam/#exam) section of the unit page has been updated and is now finalised. **I strongly recommend everyone reads this in detail** - there's very detailed format information there along with a mock exam, past papers, and strategy tips. A few things below that have either changed since the draft, or are so important that I want to clarify them over email:
+
+* You're allowed to bring **four sheets** of A4 into the exam. They can be handwritten or printed, and they can be single- or double-sided. But eight sheets of single-sided A4 isn't allowed.
+* You're allowed to bring **any non-programmable calculator** into the exam. You won't need any functionality beyond basic arithmetic operations, though (and maybe not even that).
+* The exam will be **entirely on-paper**. The idea of running exams in the computer labs to allow automatic marking for the short-answer section didn't work out.
+* **I am not expecting anyone to finish every question on the exam.** The hardest questions will be out of reach for most people, but will also be worth very few marks - they are there to differentiate a 90% from a 95%. As such, you're expected to try the easiest questions with the best mark-to-effort ratio first - the "short", "medium" and "long" tags are there to help you prioritise.
+* **Despite this, I am not expecting many people to fail the unit.** If you've been keeping up with the quizzes and have half marks or better on all of them, then you likely have 10% of your unit grade in the bank already. That means you can pass the exam on 50 marks out of 150. There are enough questions based on bookwork or stepping through algorithms or similar to achieve this with plenty of room to spare, especially given that you can bring your notes into the exam, and historically the failure rate for this unit has been low. 
+
+### Algorithms next year
+
+If you've enjoyed this unit, especially the more mathematical parts, then you should definitely consider taking Advanced Algorithms next year! This is true even if you don't get a great mark - Raphael and Christian are less brutal than me in setting exams, so if you've done decently in Algorithms II then you'll likely do well in Advanced Algorithms. (Also, Advanced Algorithms starts digging into randomised stuff, so you finally get to learn how hash tables work...!)
+
+All that having been said: good luck, everyone! I might set a high bar for the unit, but I do so in the hope that as many people clear it as possible and then go on to find it all useful. :-) Have a good Christmas/Hanukkah/Kwanzaa if you celebrate, and at least a couple of weeks of good holiday either way. 
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.redd.it/39rp2xtffw5a1.jpg)!
+
 ## Quiz deadline glitch, focused drop-in topic
 
 Hi all,
