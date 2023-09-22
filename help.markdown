@@ -53,11 +53,11 @@ This is an artifact of the way Blackboard works - if you're past the deadline, y
 
 ### Which problem class group am I in?
 
-This should appear in your Outlook calendar. If it doesn't, a spreadsheet of all groups is available [here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/Efamu1tlvqdCmVcozY0HNNgBAfbD6YM4KNuQ6oToDFGMEQ?e=NDyJwQ) with one sheet per group (requires UoB login).
+This should appear in your Outlook calendar.
 
 ### Can I change my problem class group?
 
-Yes, if you have a good reason - just email me.
+Yes, if you have a good reason - just email me to let me know.
 
 ### Wait, the Q&A is completely anonymous? And I can submit images via Padlet? \*Grins malevolently\*
 
