@@ -14,7 +14,27 @@ Table of contents
 
 # Announcements Page
 
-## Welcome and drop-in sessions
+## Drop-in session times, quiz extension
+
+Hi all,
+
+Drop-in sessions are now running every week, starting from tomorrow (the 4th) - or **today**, if you're checking your email at a sensible time! These are optional but useful chances to ask a TA questions one-on-one outside of problem classes and Q&As, and without having to wait for a response on Teams. I know some sessions will clash with some people's timetables, but every degree programme should have access to at least a few sessions.
+
+**Monday 1pm-2pm:** MVB 2.59<br />
+**Tuesday 1pm-2pm:** MVB 4.01<br />
+**Wednesday 3pm-4pm:** MVB 4.01<br />
+**Thursday 11am-noon:** MVB 4.01<br />
+**Friday 4pm-5pm:** MVB 4.01
+
+The quiz for this week is also now fixed - to account for it going up late, I'm pushing the deadline back to **noon this Monday (the 9th)**.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/SkE6HkR.mp4)! (Sound)
+
+## Welcome
 
 Hi all,
 
