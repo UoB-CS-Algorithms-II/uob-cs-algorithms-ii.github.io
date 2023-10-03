@@ -26,7 +26,7 @@ Drop-in sessions are now running every week, starting from tomorrow (the 4th) - 
 **Thursday 11am-noon:** MVB 4.01<br />
 **Friday 4pm-5pm:** MVB 4.01
 
-The quiz for this week is also now fixed - to account for it going up late, I'm pushing the deadline back to **noon this Monday (the 9th)**.
+The quiz link for this week is also now fixed - to account for it going up late, I'm pushing the deadline back to **noon this Monday (the 9th)**. Sorry about that!
 
 Best wishes,
 
