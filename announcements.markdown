@@ -14,13 +14,15 @@ Table of contents
 
 # Announcements Page
 
-## Problem class date confusion
+## Problem class date confusion + Re/Play issues
 
 Hi everyone,
 
 If you checked the unit page this week there were some dates for the next problem class like on Friday 14th of October, or on Monday 16th of October. These are incorrect dates. The actual date is 9th of October from 3pm to 4:20 pm and from 4:30 pm to 5:50 pm depending on the time you were allocated at the start of the year.
 
-We apologize for this confusion. See you there. Be there as many as possible!
+Furthermore, Re/Play issues with problem classes should be sorted from next week onwards. (The first class RE/Play just recorded the screen, not the whiteboard - IT services informed us it will now include the room camera as well.)
+
+We apologize for this confusion. See you there  as many as possible!
 
 Cezar-Mihail Alexandru
 
