@@ -49,7 +49,13 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Q&A sessions** are weekly hour-long sessions in which I answer any questions about the unit you might have - for example, questions about the video lectures, the problem classes, the Blackboard quizzes or the exam. These will be run online with Padlet and Teams, allowing you to ask questions anonymously or in advance (with TA moderation). I'm running them online not because of covid, but because I've tried running them both online and in-person and I sincerely think they work better online. Attendance is optional, but encouraged if you're having difficulty with any part of the week's material.
 
-**Drop-in sessions** with TAs will run several times per week. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. The times are TBD for the moment.
+**Drop-in sessions** with TAs will run several times per week. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. The times are the following:
+
+Monday 1pm-2pm: MVB 2.59<br />
+Tuesday 1pm-2pm: MVB 4.01<br />
+Wednesday 3pm-4pm: MVB 4.01<br />
+Thursday 11am-noon: MVB 4.01<br />
+Friday 4pm-5pm: MVB 4.01
 
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~100-person classes led by John, and they won't quite follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures on how to solve problems and trying the ideas out for yourselves (either on your own or with your friends).
 
