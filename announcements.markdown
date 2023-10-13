@@ -14,6 +14,20 @@ Table of contents
 
 # Announcements Page
 
+## Drop-ins reminder
+
+Hi, everyone!
+
+I have been reported that not many students attended last week's drop-in sessions. I would like to remind you that drop-In sessions run each day of the week starting from Week 2. 
+
+While there was already an announcement about drop-ins times and locations, the webpage has only been updated this week with the drop-ins. We apologize for this.
+
+So, if you have any questions about the unit, you can come in to one of the drop-ins where one of our brilliant TAs will be available to assist you with anything as long as it is about the unit material.
+
+Feline of the day: [Here](http://pictures.4ever.eu/animals/wildlife/cougar-240412)
+
+Cezar-Mihail Alexandru
+
 ## Problem class date confusion + Re/Play issues
 
 Hi everyone,
