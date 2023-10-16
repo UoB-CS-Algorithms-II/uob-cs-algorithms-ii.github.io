@@ -51,3 +51,10 @@ Sometimes I will also recommend parts of other books, generally when none of the
 * **Even, Graph Algorithms:** 2.1 proves an analogue of the fundamental lemma of trees.
 
 Back to CS books next week, honest!
+
+### Week 4
+
+* **Cormen et al.:** 22.1 covers graph representations, 22.2 covers breadth-first search, 22.3 covers depth-first search, and 24.3 covers Dijkstra's algorithm.
+* **Kleinberg and Tardos:** 3.2 and 3.3 cover graph representations, breadth-first search and depth-first search, and 4.4 covers Dijkstra's algorithm.
+* **Skiena:** 5.2 covers graph representations, 5.6 covers breadth-first search, 5.8 covers depth-first search, and 6.3.1 covers Dijkstra's algorithm.
+* **Erickson:** 5.3 and 5.4 cover graph representations, and 5.5, 5.6 and 8.6 cover breadth-first search, depth-first search, and Dijkstra's algorithm.
