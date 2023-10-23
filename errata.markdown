@@ -28,3 +28,7 @@ The definition for weak connectedness stated in the video is subtly wrong. A dir
 ## Week 3 video 4 (Trees)
 
 At the end of slide 6, the definition of a leaf as a degree-1 vertex is correct for unrooted trees. For rooted trees, the definition is the same except that the root cannot be a leaf, even if it has degree 1.
+
+## Week 5 video 4 (Kruskal's algorithm)
+
+In the graph on slide 5, the weight-1 edge should be a weight-10 edge (so that the situation shown in the slides can actually happen).
