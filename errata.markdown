@@ -29,6 +29,16 @@ The definition for weak connectedness stated in the video is subtly wrong. A dir
 
 At the end of slide 6, the definition of a leaf as a degree-1 vertex is correct for unrooted trees. For rooted trees, the definition is the same except that the root cannot be a leaf, even if it has degree 1.
 
+## Week 5 video 3 (Prim's algorithm)
+
+The proof of correctness of Prim's algorithm contains a subtle bug in the definition of f on slide 7. Starting from just after the statement that 2 <= I <= \|V\| on slide 7, the definition should read as follows:
+
+"Let v be the vertex added to T<sub>I-1</sub> by Prim's algorithm, so that V(T<sub>I</sub>) = V(T<sub>I-1</sub>) U {v}. Let C be the component of S - V(S<sub>I-1</sub>) containing v.
+
+Since S is a tree, it's connected, so there must be an edge f from C to S<sub>I-1</sub>. Also, S has no cycles, so f must be the only edge from C to S<sub>I-1</sub>."
+
+The proof should then continue as before, removing f from S and replacing it with e<sub>I-1</sub>. As before, after doing this, S is still a tree with w(S) <= w(T), and now S<sub>I</sub> = T<sub>I</sub>.
+
 ## Week 5 video 4 (Kruskal's algorithm)
 
 In the graph on slide 5, the weight-1 edge should be a weight-10 edge (so that the situation shown in the slides can actually happen).
