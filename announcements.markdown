@@ -14,6 +14,38 @@ Table of contents
 
 # Announcements Page
 
+
+## Reading week Drop-in sessions
+
+Hi, everyone!
+
+It's finally reading week and I am coming up with a small surprise. The drop-in sessions are also holding this week. So, if you want to catch up with the material this week, this is the opportunity for you. 
+
+Just one small observation, if you plan to go to the Monday drop-in session, be aware that the venue is MVB 4.01 instead of the usual MVB 2.59.
+
+Be aware that problem classes and Q&A sessions do not take place during this week. But, Teams forum is still monitored.
+
+Have a happy reading week and happy Halloween!
+
+Feline(s) of the day: [Here](https://pictures-of-cats.org/pictures-of-pet-caracal-with-maine-coon-companion.html)
+
+
+Cezar-Mihail Alexandru
+
+## Drop-in sessions announcement
+
+Hi, everyone!
+
+I have been reported that not many students attended last week's drop-in sessions. I would like to remind you that drop-In sessions run each day of the week starting from Week 2. 
+
+While there was already an announcement about drop-ins times and locations, the webpage has only been updated this week with the drop-ins. We apologize for this.
+
+So, if you have any questions about the unit, you can come in to one of the drop-ins where one of our brilliant TAs will be available to assist you with anything as long as it is about the unit material.
+
+Feline of the day: [Here](http://pictures.4ever.eu/animals/wildlife/cougar-240412)
+
+Cezar-Mihail Alexandru
+
 ## Drop-ins reminder
 
 Hi, everyone!
