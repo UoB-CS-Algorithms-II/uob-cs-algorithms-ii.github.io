@@ -42,3 +42,7 @@ The proof should then continue as before, removing f from S and replacing it wit
 ## Week 5 video 4 (Kruskal's algorithm)
 
 In the graph on slide 5, the weight-1 edge should be a weight-10 edge (so that the situation shown in the slides can actually happen).
+
+## Week 7 video 4 (Red-black trees)
+
+There's one exception to the rule on slide 7: in a red-black tree, a black node with a single child is OK if that child is a red leaf (corresponding to a 3-node leaf in a 2-3-4 tree).

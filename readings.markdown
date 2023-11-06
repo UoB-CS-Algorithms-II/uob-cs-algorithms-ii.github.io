@@ -66,3 +66,10 @@ Back to CS books next week, honest!
 * **Skiena:** 6.1.1 covers Prim's algorithm, and 6.1.2 covers Kruskal's algorithm.
 * **Erickson:** 7.1, 7.2, 7.4 and 7.5 cover Prim's algorithm and Kruskal's algorithm.
 * **Bondy and Murty, Graph Theory with Applications:** 5.1 covers matchings and augmenting paths. (Matchings are covered in all four other books as well, but from a different perspective that we will come to later in the course.)
+
+### Week 7
+
+* **Cormen et al.:**  21.1-21.3 cover the union-find data structure. 13.1-13.4 cover red-black trees and are an amazing advertisement for never thinking of 2-3-4 trees as red-black trees unless you're implementing them. 18.1-18.3 cover B-trees, which are a slight generalisation of 2-3-4 trees and include 2-3-4 trees as a special case.
+* **Kleinberg and Tardos:** 4.6 covers the union-find data structure.
+* **Skiena:** 6.1.3 covers the union-find data structure. 3.4.3 discusses balanced trees, and 12.1 gives a detailed comparison of 2-3-4 trees to other data structures with similar purposes and complexities, but the book doesn't go into any detail on implementation.
+* **Erickson:** The union-find data structure is covered in the "Director's cut" [here](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/11-unionfind.pdf).
