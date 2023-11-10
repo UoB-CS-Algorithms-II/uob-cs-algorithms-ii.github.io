@@ -14,6 +14,17 @@ Table of contents
 
 # Announcements Page
 
+## Week 8 Monday drop-in session
+
+Hi, everyone!
+
+If you plan to go to the Monday drop-in session next week (Week 8), be aware that the venue is MVB 4.01 instead of the usual MVB 2.59. The time is the same (1 PM) and Andreea Catrina will gladly assist you during that session as usual.
+
+Have a great week!
+
+Feline(s) of the day: [Here](https://pinterest.com/pin/399272323185372965/)
+
+Cezar-Mihail Alexandru
 
 ## Reading week Drop-in sessions
 
