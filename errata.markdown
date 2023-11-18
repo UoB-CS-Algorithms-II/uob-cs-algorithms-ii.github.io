@@ -60,3 +60,16 @@ In slides 5 and 6 in the video, where the definition of a flow is recalled, f<su
 ## Week 8 video 4 (Ford-Fulkerson)
 
 In slide 4 in the video the same typo appears again, with f<sup>+</sup>(v) and f<sup>-</sup>(v) the wrong way around when the definition of a flow is recalled.
+
+## Week 9 video 1 (Ford-Fulkerson redux)
+
+In slide 2 the same typo appears yet again, with f<sup>+</sup>(v) and f<sup>-</sup>(v) the wrong way around when the definition of a flow is recalled. (Don't copy-and-paste your code, kids!)
+
+On slide 5, the correct capacity of the middle edge is 1.5\*6 = 9, not 18.
+
+Also on slide 5, "iff" in the video is actually not a typo - it's a standard abbreviation for "if and only if". But it's not used elsewhere in the unit, so I've replaced it with an arrow in the video.
+
+## Week 9 video 3 (SAT and NP)
+
+You do not, under any circumstances, gotta hand it to JK Rowling. That Harry Potter reference dates back to 2019, it should not be there, and I wish I had time to re-record and remove it. :-(
+
