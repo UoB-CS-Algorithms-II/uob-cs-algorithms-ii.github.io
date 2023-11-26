@@ -88,3 +88,12 @@ Back to CS books next week, honest!
 * **Kleinberg and Tardos:** 7.5 covers maximum matchings in bipartite graphs from a flow perspective, and 7.7 covers circulations. 8.1 and 8.3 cover the definition of NP-completeness, and 8.2 covers the proof that 3SAT is NP-complete.
 * **Skiena:** 9.1-9.3 cover the idea of a reduction, with several examples. 9.4 covers the proof that 3-SAT is NP-complete. 9.5 gives some more examples of reductions, 9.6 gives some general advice for coming up with reductions, and 9.9 discusses the philosophy of P versus NP.
 * **Erickson:** 11.2 covers vertex capacities and 11.3 covers maximum matchings in bipartite graphs from a flow perspective. 12.1-12.3 and 12.5 set out the key definitions for NP-completeness.
+
+### Week 10
+
+* **Cormen et al.:** 34.3 proves an alternative form of the Cook-Levin theorem, proving directly that "Circuit-SAT" is NP-complete. 34.5 gives an alternative NP-completeness proof for vertex cover.
+* **Kleinberg and Tardos:** 8.2 gives a slicker reduction from 3-SAT to independent set, and 8.4 proves the alternative form of the Cook-Levin theorem. 8.9 defines Co-NP. 8.10 gives a nice taxonomy of NP-hard problems for use in reductions. Chapter 10 gives a detailed treatment of treewidth, and chapter 11 gives a detailed treatment of approximation algorithms.
+* **Skiena:** 9.5.2 gives an alternative proof that vertex cover is NP-hard. 9.6-9.8 give a nice set of heuristics for coming up with hardness proofs in general. 9.10 discusses how to deal with NP-complete problems.
+* **Erickson:** 12.7 gives a slicker reduction from 3-SAT to independent set, 12.8 discusses how to come up with hardness proofs in general, 12.9 and 12.14 gives a reduction from independent set to vertex cover, and 12.13 gives a nice taxonomy of NP-complete problems for use in reductions.
+* **Arora and Barak, Computational Complexity:** 2.3 gives the full version of the proof of Cook-Levin I sketched in video 10-2, and 2.6 and 2.7 feature a good discussion of NP versus Co-NP.
+* [The most accurate (and funniest) pop-culture exposition of quantum computing I've ever seen.](https://www.smbc-comics.com/comic/the-talk-3)
