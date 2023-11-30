@@ -73,3 +73,6 @@ Also on slide 5, "iff" in the video is actually not a typo - it's a standard abb
 
 You do not, under any circumstances, gotta hand it to JK Rowling. That Harry Potter reference dates back to 2019, it should not be there, and I wish I had time to re-record and remove it. :-(
 
+## Week 10 video 1 (Independent sets and vertex covers)
+
+In the recapped definition of VC in slides 9 and 10, the problem should ask: "Does G contain a vertex cover of size at most k?" rather than "at least k".
