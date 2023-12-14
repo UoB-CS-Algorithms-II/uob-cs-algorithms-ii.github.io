@@ -76,3 +76,14 @@ You do not, under any circumstances, gotta hand it to JK Rowling. That Harry Pot
 ## Week 10 video 1 (Independent sets and vertex covers)
 
 In the recapped definition of VC in slides 9 and 10, the problem should ask: "Does G contain a vertex cover of size at most k?" rather than "at least k".
+
+## Week 11 video 3 (The Bellman-Ford algorithm)
+
+The version of GoodPath in the video has a subtle bug in the base case. Lines 2-3 should read:
+
+**if** s = t **then**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return the empty walk.<br>	
+**else if** k = 0 **then**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return None.
+	
+The rest of the algorithm is correct.

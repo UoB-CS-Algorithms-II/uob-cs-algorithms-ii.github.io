@@ -14,6 +14,24 @@ Table of contents
 
 # Announcements Page
 
+## Exam information, help over the holidays
+
+Hi, everyone!
+
+This is a quick announcement about various forms of help that are now available for the exams.
+
+* Final information about the exam format is now available [here](http://127.0.0.1:4000/exam/#format-and-rules). **Importantly, you will be allowed to bring in up to four pages (eight sides) of A4 notes into the exam room** - make sure you have these ready! (Preparing them is also a good focal point for revision - you can't condense the unit down that far without having learned most of it already...)
+* There are now three practice papers available [here](../exam/#practice-questions) with questions drawn from past papers and adapted to the new format and model answers available. Now is also a good time to try some of the extra questions from problem sheets that we didn't go over in classes.
+* The Blackboard quizzes have now reopened [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8045551_1&course_id=_257213_1&mode=reset). There's no marks attached to these, but they can be a useful revision aid. There's also a version which just draws ten random questions from past quizzes.
+* More details to follow, but we're expecting to have TA support available over Teams for at least some of the holiday period.
+* There's a last-minute drop-in session scheduled from 2pm-4pm on January 8th in Priory Road - I'll be there along with all the TAs we can muster to answer questions.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/3VPzHKH.mp4)!
+
 ## Week 8 Monday drop-in session
 
 Hi, everyone!
