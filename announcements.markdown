@@ -14,6 +14,20 @@ Table of contents
 
 # Announcements Page
 
+## Date change for last-minute drop-in
+
+Hi, everyone!
+
+It turns out that the January 8th drop-in clashes with the PLC exam - the dangers of timetabling in advance - so we've shifted that back by a week to January 15th, still at 2pm-4pm in Priory Road. This should show up in your timetables soon.
+
+We're still trying to get TA support over the holidays sorted out, but I'm going to go ahead and say start asking questions on the unit team now and I'll step in to answer them at least until we get something more concrete in place.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/mUfecmm.mp4)!
+
 ## Exam information, help over the holidays
 
 Hi, everyone!
