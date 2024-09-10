@@ -69,12 +69,12 @@ Honestly, I started with them during 2020-21 when everything was on fire with CO
 
 ## Contact details
 
-The unit director is John Lapinskas, email address [john.lapinskas@bristol.ac.uk](mailto:john.lapinskas@bristol.ac.uk).
+I'm the lead on the first half of the unit, John Lapinskas, email address [john.lapinskas@bristol.ac.uk](mailto:john.lapinskas@bristol.ac.uk). The lead on the second half of the unit is Majid Mirmehdi, email address [m.mirmehdi@bristol.ac.uk](mailto:m.mirmehdi@bristol.ac.uk). 
 
-The lead TA for the unit is Cezar Alexandru-Mihail, email address [ca17021@bristol.ac.uk](mailto:ca17021@bristol.ac.uk). 
+Please ignore the fact that I'm listed as unit director in the programme catalogue - in practice the two halves of the unit are run entirely independently, so if you have any issues with the second half of the unit then you should contact Majid rather than me and vice versa.
 
 As set out on the main page, please don't contact us for general questions about the unit - you'll get much faster answers if you ask on the unit Team or the weekly Q&A instead.
 
 ## The unit team
 
-Everyone taking this unit should have been added to a Microsoft Team called "COMS20010: Algorithms II 2023/24 (TB-1, A)". The Q&A sessions will be run as meetings in this team, and access to recordings of Q&A sessions and problem classes will be restricted to members of this team. If you've joined the unit late, you might not have been added - in that case, please email me and I'll add you myself.
+Everyone taking this unit should have been added to a Microsoft Team, and access to recordings of Q&A sessions and problem classes will be restricted to members of this team. If you've joined the unit late, you might not have been added - in that case, please email me and I'll add you myself.
