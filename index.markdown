@@ -16,7 +16,7 @@ Table of contents
 
 ## Welcome
 
-Welcome to Algorithms II! This unit is a direct continuation of the algorithms part of Object-Oriented Programming and Algorithms from last year. The focus will be on three key algorithm design skills, which will be useful to you no matter which language or programming paradigm you end up working with:
+Welcome to Algorithms and Data! In TB1 we'll be in the algorithms half of the unit, which is a direct continuation of the algorithms part of Object-Oriented Programming and Algorithms from last year. The focus will be on three key algorithm design skills, which will be useful to you no matter which language or programming paradigm you end up working with:
 
 * **Greedy algorithms.** In other words, when can you replace a complicated algorithm that carefully considers the whole situation with a simple algorithm that just repeatedly does whatever seems like a good idea at the time?
 * **Graphs and networks.** You were briefly introduced to these in Imperative Programming last year, and perhaps in school before that, but in this unit you will learn to use them effectively to model and solve unfamiliar problems.
@@ -24,11 +24,22 @@ Welcome to Algorithms II! This unit is a direct continuation of the algorithms p
 
 ## Schedule and links to materials
 
-Most of the material below (especially recordings of Q&As and problem classes) will require you to log in to University of Bristol systems.
+Most of the material below (especially recordings of Q&As and problem classes) will require you to log in to University of Bristol systems. In any given week, you should:
+
+1. Watch the videos. (Don't just skim the slides!)
+1. Do the weekly quiz to check your understanding of the basic material.
+1. Come to the problem class the following week to learn how to apply the material to unfamiliar problems - these are half-lecture half-lab, not just a place to work on the problem sheet.
+
+If (and only if!) there's part of the material you're having trouble with in steps 2 or 3, first make sure this isn't a mistake in the video other people have already noticed - if it is, it will be posted as [errata](errata) and linked directly from the video below. After that, your best options are:
+
+* Come to the weekly Q&A, where you can ask the lecturer questions either directly or anonymously via Padlet (linked below).
+* Come to the drop-in sessions, which will hopefully be near-daily Monday to Friday, to ask a TA.
+* Ask on the unit Team, which is monitored by both TAs and the lecturer and should get a response within a day.
+* Check out the [recommended reading](readings) for another perspective on the same material.
 
 | Week 1 | **Monday 2023/09/16**<br>Videos released (next week!) | | |
 | | [Optional resources](../readings/#week-1) | | |
-| | **Friday 2023/09/20**<br>Quiz 1 due | **Friday 2023/09/20**<br>Q&A 1 | **Monday 2022/09/23**<br> Problem class 1<br>(Sheet next week!) |
+| | **Monday 2023/09/23**<br>Quiz 1 due | **Friday 2023/09/20**<br>Q&A 1 | **Monday 2022/09/23**<br> Problem class 1<br>(Sheet next week!) |
 | | (**Optional:** [Dummy quiz](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_260090_1&content_id=_9187072_1)<br> to test your browser works.) | |
 
 ## What's in the unit
@@ -39,7 +50,7 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Textbook readings** will be released at the same time as the video lectures, if you'd like more information or more detailed proofs. They are all completely optional and non-examinable, but they're a good place to try if you want another explanation of something.
 
-**Blackboard quizzes** are weekly summative exercises covering that week's material. Each quiz will be released on Monday morning, and due at noon on Friday. They will be automatically marked as soon as you submit them, and you will immediately be able to see what you got wrong and why. Together, they will account for 10% of your unit mark. However, any mark of 50% or more on a quiz will count as 100% in this calculation - in other words, everyone who makes a reasonable attempt will receive full marks. All the material you need for these quizzes will be covered in the video lectures, but you are encouraged to use any other resources you find helpful, and to work on them together with your friends. They're not timed, and you can leave the page after starting and come back later. In addition to being worth marks in and of themselves, these quizzes will be good preparation for the short-answer portion of the exam.
+**Blackboard quizzes** are weekly summative exercises covering that week's material. Each quiz will be released by Monday morning, and due at noon the following Monday. They will be automatically marked as soon as you submit them, and you will immediately be able to see what you got wrong and why. Together, they will account for 10% of your unit mark. However, any mark of 50% or more on a quiz will count as 100% in this calculation - in other words, everyone who makes a reasonable attempt will receive full marks. All the material you need for these quizzes will be covered in the video lectures, but you are encouraged to use any other resources you find helpful, and to work on them together with your friends. They're not timed, and you can leave the page after starting and come back later. In addition to being worth marks in and of themselves, these quizzes will be good preparation for the short-answer portion of the exam.
 
 **Q&A sessions** are weekly hour-long sessions in which I answer any questions about the unit you might have - for example, questions about the video lectures, the problem classes, the Blackboard quizzes or the exam. These will be run in-person, but supported by Padlet, allowing you to ask questions anonymously during the session or or in advance before it (with TA moderation). Attendance is optional, but encouraged if you're having difficulty with any part of the week's material.
 
