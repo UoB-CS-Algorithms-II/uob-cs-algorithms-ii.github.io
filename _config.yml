@@ -12,10 +12,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Algorithms II
+title: Algorithms and Data
 email: john.lapinskas@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Page for the Algorithms II unit of the University of Bristol undergraduate computer science degree programme, code COMS20010.
+  Page for TB1 of the Algorithms and Data unit of the University of Bristol undergraduate computer science degree programme, code COMS20010.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
