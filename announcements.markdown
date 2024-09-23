@@ -29,3 +29,20 @@ Best wishes,
 John
 
 Cat of the day: [Here](https://i.imgur.com/JLiyZa4.mp4)!
+
+## Weekly Drop-Ins
+
+Hi All,
+
+As part of the unit we will be running 3 TA led drop-in sessions per week.
+These will run similarly to drop-ins from other units, and are a chance for you to bring any work or questions you’d like to discuss.
+
+The timings of these are as follows:
+ - Tuesday 13:00
+ - Wednesday 12:00
+ - Thursday 13:00
+
+The locations haven’t been confirmed yet, so for week 2 they will run online in the dedicated teams channel.
+The locations will be updated once they have been confirmed.
+
+Adi
