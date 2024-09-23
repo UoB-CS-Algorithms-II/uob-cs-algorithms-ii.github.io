@@ -34,3 +34,11 @@ Sometimes I will also recommend parts of other books, generally when none of the
 * **Cormen et al.:** Chapters 3.1 and 3.2 cover O-notation.
 * **Kleinberg and Tardos:** Chapters 2.1 and 2.2 cover O-notation.
 * **Skiena:** Chapter 1.3 covers proof in general, with 1.3.4 dedicated to induction in particular. Chapters 2.1 to 2.5 cover O-notation.
+
+### Week 2
+
+* **Cormen et al.:** 16.1 covers interval scheduling, 16.2 discusses greedy algorithms more generally.
+* **Erickson:** 4.2-4.3 covers interval scheduling, 5.1 covers the history of graphs and Eulera walks, and 5.2 covers some basic definitions.
+* **Kleinberg and Tardos:** 4.1 covers interval scheduling and greedy algorithms and 3.1 covers graphs.
+* **Skiena:** 1.2 covers interval scheduling, 5.1 covers graphs, and 15.7 covers Euler walks.
+* **Bondy and Murty, Graph Theory with Applications:** 4.1 covers Euler walks.
