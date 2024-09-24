@@ -46,3 +46,17 @@ The locations haven’t been confirmed yet, so for week 2 they will run online i
 The locations will be updated once they have been confirmed.
 
 Adi
+
+## Re/Play recording issue
+
+Hi all,
+
+It looks like there was a recording issue with the first problem class - it captured the monitor rather than the whiteboard, so the recording is only of the audio. Thankfully I hedged my bets in terms of what would be captured and did the second class on the doc cam, which was captured fine! The two classes covered the same material, so even if you attended the first class you should probably still watch use the recording of the second class for reference, and in future I'll run classes with the doc cam.
+
+(I know there can be issues seeing the doc cam at the back - if you're having trouble seeing please don't even put your hand up, just shout and ask me to zoom in/write bigger and I will!)
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.redd.it/w6fduzg4cqqd1.jpeg)!
