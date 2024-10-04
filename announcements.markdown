@@ -60,3 +60,21 @@ Best wishes,
 John
 
 Cat of the day: [Here](https://i.redd.it/w6fduzg4cqqd1.jpeg)!
+
+## New versions of videos 3-1 and 3-4
+
+Hi all,
+
+Sorry about this - it looks like I failed to link two newly-corrected videos correctly this week, with the result that some errors slipped through with no visible errata on the unit page. I discussed this in the Q&A today, but the short version is:
+
+* The definition for weak connectedness stated in the 3-1 video is subtly wrong. A directed graph is weakly connected when for all vertices u and v, there is a path from u to v **ignoring edge directions**, not when there is a path from u to v or from v to u (but maybe not both). For example, the graph with vertex set {1,2,3} and edge set {(1,2), (3,2)} is weakly connected under the first (correct) definition, but not under the second (incorrect) definition.
+
+* At the end of slide 6, the definition of a leaf as a degree-1 vertex is correct for unrooted trees. For rooted trees, the definition is the same except that the root cannot be a leaf, even if it has degree 1.
+
+The new videos are on the unit page now. The timestamps of the corrected sections are roughly 7:35-13:16 for video 3-1 and 13:12-16:16 for video 3-4.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://imgur.com/dhvhX1n)!

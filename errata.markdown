@@ -16,4 +16,4 @@ Table of contents
 
 ## Week 1 video 4 (Using O-notation)
 
-In slide 4 on L'Hôpital's rule, the statement that n &isinv; o(b<sup>n</sup>) for all b > 0 should instead require b > 1.
+In slide 4 on L'Hôpital's rule, the statement that n &isin; o(b<sup>n</sup>) for all b > 0 should instead require b > 1.
