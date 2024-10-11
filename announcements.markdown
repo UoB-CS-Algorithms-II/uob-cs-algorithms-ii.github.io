@@ -78,3 +78,21 @@ Best wishes,
 John
 
 Cat of the day: [Here](https://imgur.com/dhvhX1n)!
+
+## Quiz 4 error
+
+Hi all,
+
+In question 6 of this week's quiz (the one due on Monday), vertices are displayed in the wrong order - they are listed in the order v1, v2, v3, v**5**, v**4**, v6, ... rather than v1, v2, v3, v**4**, v**5**, v6, ... . You should answer the question as it is written, so put the correct position for v5 next to v5 and the correct position for v4 next to v4. If you have already answered the question and (quite reasonably) didn't notice the order difference, then don't worry, I will go through when all the marks are in and give full or partial credit where necessary. For example, students who read v5 as v4 and vice versa and had that as their only error will get full marks for the question. (I'll only actually change the marks where it makes a difference, so I won't check the quiz for anyone who got 50% or more since they're getting the full 100% credit either way.)
+
+With any other VLE in the world I wouldn't be sending this announcement - since most people prefer to do the quiz over the weekend, I would simply change the display order in the question and re-mark the submissions people already made, thus solving the problem. But Blackboard says I can't change the way the question appears on screen because people have already attempted it. Apparently to people who work at Blackboard, the thing I just said sounds in some way reasonable for ordering-based questions and only for ordering-based questions, as retroactive changes to other questions are perfectly fine. 
+
+The moment someone I saw the error I let out a primal scream of rage, remembering the moment exactly the same thing happened on exactly the same question last year with exactly the same result, leading us directly to where we stand today. Due to the ravages of age, I cannot rule out the same thing having happened two years ago. Let's all take this as our monthly - nay, weekly - reminder that if you end up working as an academic and your institution is considering the use of Blackboard or Blackboard Ultra as a VLE, then it is your moral obligation to use all means short of actual physical violence to prevent this from happening.
+
+Thank you to the student who brought this to my attention - while I am quite angry right now, absolutely none of this anger is directed at you!
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/04/cat-hissing.jpeg).
