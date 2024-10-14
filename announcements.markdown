@@ -96,3 +96,15 @@ Best wishes,
 John
 
 Cat of the day: [Here](https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/04/cat-hissing.jpeg).
+
+## Clarification RE week 6 and quiz 5 deadline
+
+Hi all,
+
+After a question in the problem class today I realised my dates were all wrong on the unit page, and in particular that next week is reading week! As such there are no classes or Q&As next week, and the deadline for this week's quiz is not next Monday (the 21st) but the Monday after (the 28th). The dates are fixed now, sorry about that.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/Errjp5c.jpeg)! (Courtesy of my parents, some searching required...)
