@@ -32,6 +32,8 @@ There's one exception to the rule on slide 7: in a red-black tree, a black node 
 
 Added a slide to the end saying in writing what I said in the video - that this is a general technique for reducing the problem of solving an arbitrary linear program to the problem of solving a linear program in standard form.
 
+In slide 9, the explanation for how to put equality constraints into standard form should say that &Sigma;<sub>j</sub>a<sub>ij</sub>x<sub>j</sub> = b<sub>i</sub> if and only if &Sigma;<sub>j</sub>a<sub>ij</sub>x<sub>j</sub> &ge; b<sub>i</sub> and **&Sigma;<sub>j</sub>a<sub>ij</sub>x<sub>j</sub> &le; b<sub>i</sub>**, not &Sigma;<sub>i</sub>a<sub>i</sub>x<sub>i</sub> = b<sub>i</sub>.
+
 ## Week 8 video 3 (Flow networks)
 
 In slides 5 and 6 in the video, where the definition of a flow is recalled, f<sup>+</sup>(v) and f<sup>-</sup>(v) are the wrong way around. As in the original definition on slide 4, f<sup>+</sup>(v) should be the sum of f(v,w) over all vertices w in v's out-neighbourhood, and f<sup>-</sup>(v) should be the sum of f(u,v) over all vertices u in v's in-neighbourhood.
