@@ -81,3 +81,10 @@ Back to CS books next week, honest!
 * **Skiena:** 13.6 discusses linear programming from a high-level "how do I use/solve this?" perspective. Their coverage of flow networks and Ford-Fulkerson in 6.5 is bound up with their coverage of bipartite matchings, for reasons that will become clear next week.
 * **Erickson:** Network flows and Ford-Fulkerson are covered in 10.1-10.4.
 * A pleasant song to listen to while you reflect on how the details of the simplex algorithm are non-examinable: [Here](https://www.youtube.com/watch?v=pg9l7Mx27t8).
+
+### Week 9
+
+* **Cormen et al.:** 26.3 covers maximum matchings in bipartite graphs from a flow perspective. 34-34.3 covers the definitions of NP-completeness, and 34.4 and 34.5 give examples of NP-completeness proofs.
+* **Kleinberg and Tardos:** 7.5 covers maximum matchings in bipartite graphs from a flow perspective, and 7.7 covers circulations. 8.1 and 8.3 cover the definition of NP-completeness, and 8.2 covers the proof that 3SAT is NP-complete.
+* **Skiena:** 9.1-9.3 cover the idea of a reduction, with several examples. 9.4 covers the proof that 3-SAT is NP-complete. 9.5 gives some more examples of reductions, 9.6 gives some general advice for coming up with reductions, and 9.9 discusses the philosophy of P versus NP.
+* **Erickson:** 11.2 covers vertex capacities and 11.3 covers maximum matchings in bipartite graphs from a flow perspective. 12.1-12.3 and 12.5 set out the key definitions for NP-completeness.
