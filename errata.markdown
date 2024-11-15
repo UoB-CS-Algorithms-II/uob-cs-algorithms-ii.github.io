@@ -49,3 +49,7 @@ In slide 2 the same typo appears yet again, with f<sup>+</sup>(v) and f<sup>-</s
 On slide 5, the correct capacity of the middle edge is 1.5\*6 = 9, not 18.
 
 Also on slide 5, "iff" in the video is actually not a typo - it's a standard abbreviation for "if and only if". But it's not used elsewhere in the unit, so I've replaced it with an arrow in the video.
+
+## Week 10 video 1 (Independent sets and vertex covers)
+
+In the recapped definition of VC in slides 9 and 10, the problem should ask: "Does G contain a vertex cover of size at most k?" rather than "at least k".
