@@ -19,7 +19,7 @@ Your mark for the algorithms half of the unit will be split into two parts. 10% 
 * There are 10 quizzes in total, one per week, and they are equally weighted (so each quiz counts for 10% of your "in-class tests" mark and 0.5% of your unit mark).
 * Quizzes are always due at midday on Monday the week after release. The university standard late penalties will apply.
 * The quizzes are not tests. There is no time limit, you can close the page and come back later, you can (and should!) work on quizzes together with your friends, and you are free to use any online or offline resources you want.
-* If your raw mark on a quiz is greater than 50%, then it will be set to 100% in the final grade calculation. Otherwise, it will remain unchanged. For example, a student who gets 55% in nine quizzes and 45% in one quiz will get a total mark of 94.5%.
+* If your raw mark on a quiz is at least 50%, then it will be set to 100% in the final grade calculation. Otherwise, it will remain unchanged. For example, a student who gets 55% in nine quizzes and 45% in one quiz will get a total mark of 94.5%.
 * The intention is that thanks to the "rounding" above, almost everyone will get full marks on almost every quiz. They are explicitly intended not to gauge your ability, but to nudge you into keeping up with the unit.
 * Immediately after you've submitted your quiz, you can (and should!) check to see exactly what you got wrong and why by clicking "OK" on the submission screen.
 * The quizzes are hosted on Blackboard. They are linked from the table in the [main hub](../), or you can see them all [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8045548_1&course_id=_257213_1&mode=reset).
