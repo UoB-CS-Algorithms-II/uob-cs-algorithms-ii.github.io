@@ -50,6 +50,16 @@ On slide 5, the correct capacity of the middle edge is 1.5\*6 = 9, not 18.
 
 Also on slide 5, "iff" in the video is actually not a typo - it's a standard abbreviation for "if and only if". But it's not used elsewhere in the unit, so I've replaced it with an arrow in the video.
 
+## Week 9 video 4 (NP-completeness of 3-SAT)
+
+On slide 5, the numbering of the e's in:
+
+"(e<sub>1</sub> = l<sub>1</sub> &or; l<sub>2</sub>) &and; (e<sub>2</sub> = l<sub>2</sub> &or; l<sub>3</sub>) &and; ... &and; (e<sub>k-1</sub> = e<sub>k-2</sub> &or; l<sub>k-1</sub>) &and; (e<sub>k-1</sub> &or; l<sub>k</sub>)" 
+
+is wrong, and should read:
+
+"(e<sub>1</sub> = l<sub>1</sub> &or; l<sub>2</sub>) &and; (e<sub>2</sub> = l<sub>2</sub> &or; l<sub>3</sub>) &and; ... &and; (e<sub><b><u>k-2</u></b></sub> = e<sub><u><b>k-3</b></u></sub> &or; l<sub>k-1</sub>) &and; (e<sub><b><u>k-2</u></b></sub> &or; l<sub>k</sub>)" 
+
 ## Week 10 video 1 (Independent sets and vertex covers)
 
 In the recapped definition of VC in slides 9 and 10, the problem should ask: "Does G contain a vertex cover of size at most k?" rather than "at least k".
