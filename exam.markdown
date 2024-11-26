@@ -35,7 +35,7 @@ Your mark for the algorithms half of the unit will be split into two parts. 10% 
 
 * The exam will be two hours long.
 
-* The exam will be open-note. This means you will be allowed to bring some number (TBD) of handwritten or printed A4 notes with you to the exam room - these can be double-sided. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
+* The exam will be open-note. This means you will be allowed to bring **one** page of handwritten or printed A4 notes with you to the exam room - this can be double-sided. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
 
 * **Non-programmable** calculators are allowed. Programmable calculators are not allowed.
 
@@ -58,7 +58,7 @@ Your mark for the algorithms half of the unit will be split into two parts. 10% 
   * [Practice paper B](../exam/paper-B.pdf) ([answers](../exam/paper-B-answers.pdf))
   * [Practice paper C](../exam/paper-C.pdf) ([answers](../exam/paper-C-answers.pdf))
 * Note that I've written the answers to these papers quite mathematically to minimise the chance of misunderstandings. You do **not** need to write your own answers this way. For something like e.g. a reduction question, you'll get full marks if a) I can tell what your reduction is, b) it's a valid reduction, and c) it's clear from what you've written that you understand why it works, with most of the marks going to a) and b).
-* New copies of the Blackboard quizzes are available [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8045551_1&course_id=_257213_1&mode=reset) - you can take these as often as you like for revision purposes.
+<!--* New copies of the Blackboard quizzes are available [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8045551_1&course_id=_257213_1&mode=reset) - you can take these as often as you like for revision purposes.-->
 * The problem sheet questions we didn't go through in the example class are a great source of practice for the harder questions on the paper.
 * The exercises given in the relevant chapters of the unit's recommended textbooks (see [here](../readings)) are great practice for questions of all difficulties.
 
