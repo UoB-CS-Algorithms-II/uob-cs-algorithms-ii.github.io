@@ -108,3 +108,19 @@ Best wishes,
 John
 
 Cat of the day: [Here](https://i.imgur.com/Errjp5c.jpeg)! (Courtesy of my parents, some searching required...)
+
+## Week 12 plans and revision quizzes
+
+Hi all,
+
+[New versions](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_9149545_1&course_id=_260090_1&mode=reset) of the Blackboard quizzes are now available - these are the same questions as from previous weeks, but now you can take each quiz as many times as you like for revision purposes. There's also a version that will give you ten random questions from all the quizzes combined. I'd also recommend checking out the three [practice papers](https://uob-cs-algorithms-ii.github.io/exam/#practice-questions) - the full exam will be a little easier than these, but the format and syllabus is exactly the same. Check out the [exam format](https://uob-cs-algorithms-ii.github.io/exam/#format-and-rules) as well - in particular, the last "choose one from three" question is significantly harder than the rest of the paper, and you should normally only sink time into it if you're happy with your answers to the other questions. Also, as a reminder, you are allowed to bring **<u>one double-sided handwritten sheet of A4 notes</u>** into the exam.
+
+In general, the Blackboard quizzes are intended to work as good preparation for the short-answer section and the problem sheets are intended to work as good preparation for the long-answer section. If you'd like even more practice questions, I'd strongly recommend taking a look at the exercises in Kleinberg and Tardos from the [recommended reading](https://uob-cs-algorithms-ii.github.io/readings/) page - it's available as an eBook from the UoB library.
+
+For week 12, the problem class on Monday will be going ahead as normal (focusing on the week 10 material), as will the Q&A on Friday. We'll also be keeping a closer eye on the unit team than normal for any questions there.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/mmH0d5W.jpg)!
