@@ -27,15 +27,13 @@ Your mark for the algorithms half of the unit will be split into two parts. 10% 
 
 ## Exam
 
-**The information below is subject to change until confirmed by announcement.** 
-
 ### Format and rules
 
 * The exam will be in-person and on-paper.
 
 * The exam will be two hours long.
 
-* The exam will be open-note. This means you will be allowed to bring **one** page of handwritten or printed A4 notes with you to the exam room - this can be double-sided. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
+* The exam will be open-note. This means you will be allowed to bring **one** page of handwritten A4 notes with you to the exam room - this can be double-sided. You will not be allowed to access the unit lecture notes or any other resources, and you will not be allowed to work with others.
 
 * **Non-programmable** calculators are allowed. Programmable calculators are not allowed.
 
