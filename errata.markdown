@@ -64,13 +64,13 @@ is wrong, and should read:
 
 In the recapped definition of VC in slides 9 and 10, the problem should ask: "Does G contain a vertex cover of size at most k?" rather than "at least k".
 
-## Week 11 video 3 (The Bellman-Ford algorithm)
+## Week 11 videos 3 and 4 (The Bellman-Ford algorithm)
 
-The version of GoodPath in the video has a subtle bug in the base case. Lines 2-3 should read:
+The version of GoodPath in slide 7 of video 3 and slide 1 of video 4 (on the recap slide) has a subtle bug in the base case. Lines 2-3 should read:
 
 **if** s = t **then**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return the empty walk.<br>	
 **else if** k = 0 **then**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return None.
 	
-The rest of the algorithm is correct.
+The rest of the algorithm is correct, except that each instance of "i &isin; \[k]" should read "i &isin; \[d]" (since there are d paths P<sub>i</sub>).
