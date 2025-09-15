@@ -16,6 +16,8 @@ Table of contents
 
 ## Welcome
 
+**<u>IMPORTANT: All material on this page is outdated.</u>** This is the page from 2024-25, in which the algorithms part of the unit ran in TB1. I intend to modify the lectures a bit for TB2 this year, but I'm leaving this page up to make life easier for people on supplementary years.
+
 Welcome to Algorithms and Data! In TB1 we'll be in the algorithms half of the unit, which is a direct continuation of the algorithms part of Object-Oriented Programming and Algorithms from last year. The focus will be on three key algorithm design skills, which will be useful to you no matter which language or programming paradigm you end up working with:
 
 * **Greedy algorithms.** In other words, when can you replace a complicated algorithm that carefully considers the whole situation with a simple algorithm that just repeatedly does whatever seems like a good idea at the time?
