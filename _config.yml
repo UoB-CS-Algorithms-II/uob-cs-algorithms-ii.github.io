@@ -20,8 +20,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # For local editing, comment remote_theme and uncomment theme. Then do the opposite before pushing.
-# remote_theme: just-the-docs/just-the-docs
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
+# theme: "just-the-docs"
 
 aux_links:
   "Blackboard home page":
