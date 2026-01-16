@@ -29,4 +29,8 @@ Sometimes I will also recommend parts of other books, generally when none of the
 
 ## Resources for specific weeks
 
-Nothing to see here yet!
+### Week 1
+
+* **Cormen et al.:** Chapters 3.1 and 3.2 cover O-notation.
+* **Kleinberg and Tardos:** Chapters 2.1 and 2.2 cover O-notation.
+* **Skiena:** Chapter 1.3 covers proof in general, with 1.3.4 dedicated to induction in particular. Chapters 2.1 to 2.5 cover O-notation.
