@@ -14,6 +14,23 @@ Table of contents
 
 # Announcements Page
 
+## Drop-in rooms and times confirmed
+
+Hi all,
+
+We now have rooms, times and TAs for all the drop-in sessions, so these are now running! The times and locations should show up in your timetables - they are:
+
+* Monday 5pm-6pm in MVB 4.01
+* Tuesday 1pm-2pm in Queens 1.59
+* Thursday noon-1pm in Queens F.05
+* Friday 4pm-5pm Queens F.05
+
+These are completely optional sessions where you can ask a TA for one-on-one help with the unit. The unit team is also now open for business, so please do ask questions there.
+
+Best wishes,
+
+John
+
 ## Welcome!
 
 Hi all,

@@ -33,7 +33,7 @@ Most of the material below (especially recordings of Q&As and problem classes) w
 If (and only if!) there's part of the material you're having trouble with in steps 2 or 3, first make sure this isn't a mistake in the video other people have already noticed - if it is, it will be posted as [errata](errata) and linked directly from the video below. After that, your best options are:
 
 * Come to the weekly Q&A, where you can ask the lecturer questions either directly or anonymously via Padlet (linked below).
-* Come to the drop-in sessions, which will hopefully be near-daily Monday to Friday, to ask a TA.
+* Come to the timetabled drop-in sessions on Monday, Tuesday, Thursday or Friday to ask a TA.
 * Ask on the unit Team, which is monitored by both TAs and the lecturer and should get a response within a day.
 * Check out the [recommended reading](readings) for another perspective on the same material.
 
@@ -54,7 +54,7 @@ For more details on any of this, take a look at the first lecture video above.
 
 **Q&A sessions** are weekly hour-long sessions in which I answer any questions about the unit you might have - for example, questions about the video lectures, the problem classes, the Blackboard quizzes or the exam. These will be run in-person but supported by Padlet, allowing you to ask questions anonymously during the session or or in advance before it (with TA moderation). Attendance is optional, but encouraged if you're having difficulty with any part of the week's material. They essentially take the place of office hours, letting everyone benefit from answers and explanations rather than only a few people.
 
-**Drop-in sessions** with TAs will run several times per week. These are similar to "office hours" - you can come along without booking in advance to talk to someone one-on-one. The times will be determined later, and we expect to announce them in week 1.
+**Drop-in sessions** with TAs run several times per week. These are similar to "office hours" - they're optional sessions where you can come along without booking in advance to talk to someone one-on-one. The places and times should appear in your timetable.
 
 **Problem sheets** are weekly formative exercises covering the previous week's material. Each sheet will be discussed in an in-person **problem class** the week after it is released. These will be ~100-person classes led by John in the first half and Shuo in the second half, and they won't quite follow the typical model of students doing problems while TAs wander around helping people. You **don't** have to try the sheet before the class, or even look at it. You **do** have to bring a copy of the sheet and make an effort to understand the previous week's material via the videos, Blackboard quizzes, Q&A, and asking questions on the unit team. The classes will then be a split between interactive lectures on how to solve problems and trying the ideas out for yourselves (either on your own or with your friends).
 
