@@ -42,3 +42,12 @@ Sometimes I will also recommend parts of other books, generally when none of the
 * **Kleinberg and Tardos:** 4.1 covers interval scheduling and greedy algorithms and 3.1 covers graphs.
 * **Skiena:** 1.2 covers interval scheduling, 5.1 covers graphs, and 15.7 covers Euler walks.
 * **Bondy and Murty, Graph Theory with Applications:** 4.1 covers Euler walks.
+
+### Week 3
+
+* **Kleinberg and Tardos:** 3.1 covers trees (though not in much detail).
+* **Bondy and Murty, Graph Theory with Applications:** 1.5 covers the handshaking lemma, and 4.2 covers Hamilton cycles and Dirac's theorem.
+* **Harris, Hirst and Mossinghoff, Combinatorics and Graph Theory:** 1.3.1 and 1.3.2 covers trees in more detail than Kleinberg and Tardos, giving alternative proofs of the first few results proved in the video.
+* **Even, Graph Algorithms:** 2.1 proves an analogue of the fundamental lemma of trees.
+
+Back to CS books next week, honest!
