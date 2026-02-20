@@ -14,6 +14,18 @@ Table of contents
 
 # Announcements Page
 
+## Catch back up on quizzes over reading week!
+
+Hi all,
+
+As we head into reading week, about half of you have been diligently doing the quizzes once a week as you're supposed to, and the other half... haven't been. 😅 Now would be an *excellent* time to catch up. If you leave them all until week 12, i.e. at around the same time as the SEP deadline, you're going to have a bad time - not just a few rough days finishing the quizzes, but also in trying to properly understand the unit in time for the exam. Some of you now have 3-5 reminder emails sitting in your inboxes, one per missing quiz - imagine if there were ten of them, and they all had to be done urgently. Remember, this is 10% of your unit mark that you can either have in the bag before the exam even starts or just throw away! 
+
+Part of the reason I'm writing this announcement is that completion rates are much lower than right now than last year at the same point in term - I don't *want* to fail a bunch of people, but I'm also not going to make the exam easier than last year based on fewer people having done the quizzes. I'm writing the exam now, so consider my steering wheel thrown out of the window in this multi-party game of chicken...
+
+Best wishes,
+
+John
+
 ## Drop-in rooms and times confirmed
 
 Hi all,
