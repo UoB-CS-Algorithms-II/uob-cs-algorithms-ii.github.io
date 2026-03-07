@@ -73,3 +73,11 @@ Back to CS books next week, honest!
 * **Kleinberg and Tardos:** 4.6 covers the union-find data structure.
 * **Skiena:** 6.1.3 covers the union-find data structure. 3.4.3 discusses balanced trees, and 12.1 gives a detailed comparison of 2-3-4 trees to other data structures with similar purposes and complexities, but the book doesn't go into any detail on implementation.
 * **Erickson:** The union-find data structure is covered in the "Director's cut" [here](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/11-unionfind.pdf).
+
+### Week 8
+
+* **Cormen et al.:** 29.1 and 29.2 give an overview of linear programming. Avoid sections 29.3-5, which discuss the simplex algorithm, unless you are morbidly curious about how it's possible to spend 28 pages discussing it in detail without once mentioning the geometric intuition behind it. 26.1 covers flow networks, and 26.2 covers Ford-Fulkerson.
+* **Kleinberg and Tardos:** 11.4 gives an overview of linear programming and goes into detail about the application to vertex cover. 7.1 and 7.2 cover flow networks and Ford-Fulkerson.
+* **Skiena:** 13.6 discusses linear programming from a high-level "how do I use/solve this?" perspective. Their coverage of flow networks and Ford-Fulkerson in 6.5 is bound up with their coverage of bipartite matchings, for reasons that will become clear next week.
+* **Erickson:** Network flows and Ford-Fulkerson are covered in 10.1-10.4.
+* A pleasant song to listen to while you reflect on how the details of the simplex algorithm are non-examinable: [Here](https://www.youtube.com/watch?v=pg9l7Mx27t8).
